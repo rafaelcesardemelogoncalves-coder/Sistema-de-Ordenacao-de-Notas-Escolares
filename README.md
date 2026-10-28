@@ -1,16 +1,16 @@
 # Sistema-de-Ordenacao-de-Notas-Escolares
 
 Disciplina
-Logica de Programacao
+Algoritmos e pensamento computacional 
 
 Professora
 Karla Roberto Sartin
 
 Integrantes do grupo:
 
-Gabriel Yuri
-Rafael César
-Bento Heringer
+Gabriel Yuri -
+Rafael César -
+Bento Heringer.
 
 1. Descricao do problema
 Em uma escola, organizar as notas dos alunos pode facilitar a analise do desempenho escolar. Este projeto utiliza a programacao em C para ordenar as notas de 10 alunos, da maior para a menor.
